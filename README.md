@@ -1,3 +1,120 @@
+# [User Agreement](https://github.com/CodeRaid3rs/User-Agreement)
+
+## Documentation for **CodeRaiders Albion Fishing Bot (Lite)**  
+[**Project Information**](https://t.me/CodeRaidersInformation)  
+
+---
+
+### **Description**  
+**CodeRaiders Albion Fishing Bot (Lite)** is a tool for automating fishing in Albion Online. It simplifies the fishing process, offering an intuitive interface and flexible configurations for users.
+
+---
+
+### **System Requirements**  
+- **Windows 10**: versions 1909–22H2  
+- **Windows 11**: version 21H2 or later  
+- Supported screen resolution: **1920 x 1080**
+
+---
+
+### **Preparation Before Launch**
+
+#### **1. Disable Antivirus Software**  
+Antivirus programs may block the bot, causing errors or making it non-functional. Ensure your antivirus is turned off while using the bot.
+
+#### **2. Uninstall Anti-Cheat Software (Faceit and Vanguard)**  
+Anti-cheat programs like Faceit or Vanguard may interfere with the bot's operation. Uninstall them and restart your computer.
+
+#### **3. Configure Game Settings**  
+Ensure your game settings match the recommendations below to ensure stable bot performance.
+
+![Settings 1](1.png)  
+![Settings 2](2.png)  
+![Settings 3](3.png)  
+![Settings 4](4.png)  
+![Settings 5](5.png)  
+![Settings 6](6.png)  
+
+---
+
+### **Game Settings**  
+**Important! Set the game interface to Russian language.**
+
+- **Video Tab**: Configure graphics settings as shown above (include screenshots if needed).  
+- **Interface**: Ensure interface settings meet the requirements.  
+- **Social Features**: Disable unnecessary functions to improve stability.  
+
+---
+
+### **Tab Functions**
+
+#### **"Bot Control" Tab**  
+- **Start Bot** – starts automated fishing.  
+- **Stop Bot** – stops the bot.  
+- **Set Cord** – sets up to three coordinates for casting the fishing rod.  
+- **Start Helper** – activates the helper for automatic hooking when casting manually.  
+- **Stop Helper** – deactivates the helper.
+
+#### **"Configuration" Tab**  
+- **Save Config** – saves current settings.  
+- **Load Config** – loads previously saved settings.  
+- **Reset To Default** – resets settings to default values.  
+
+#### **"Options" Tab**  
+- **Worms** – automatically uses Tier 3 or 5 worms every 10 fish.  
+- **Pie** – automatically applies Tier 5 pies every 30 minutes.  
+- **Auto Trash Remover** – clears unnecessary items from inventory every 30 fish.  
+- **Auto Reconnect** – reconnects to the server after disconnections.  
+- **Character Selection** – specifies the character for reconnecting.  
+- **Stats** – displays statistics.  
+- **Damage Notifications** – sends Telegram notifications about received damage.
+
+#### **"Binds" Tab**  
+- **Menu** – toggles menu visibility.  
+- **Fix Square** – locks fishing coordinates.  
+- **Start Bot** – starts fishing.  
+- **Stop Bot** – stops the bot.  
+
+#### **"Notifications" Tab**  
+- Configure Telegram notifications:  
+  - **Telegram UserID**  
+  - **Telegram Bot_Token**
+
+#### **"Radar" Tab**  
+- **Enable Radar** – activates radar to display fishing spots:  
+  - **5 Fish** – shows spots with 5 fish.  
+  - **1 Fish** – shows spots with 1 fish.  
+  - **Don't Show Empty Spots** – hides empty spots.  
+  - **Haze** – displays mist levels: Normal, Strange, Rare, Legendary, Epic.
+
+---
+
+### **How to Launch the Bot Correctly**
+
+#### **1. Choose a Fishing Location**  
+Go to the desired fishing spot on the map.  
+
+#### **2. Set Casting Coordinates**  
+- Click **Set Cord**.  
+- Hover the cursor over the desired screen area and press the hotkey (default: **F3**).  
+- Set up to three squares. The bot will cast randomly within these squares.  
+
+#### **3. Adjust Parameters**  
+- In the **Settings** tab, activate options like automatic bait or pie usage if needed.  
+
+#### **4. Start the Bot**  
+- Hide the menu using the **Menu** hotkey.  
+- Start the bot with the hotkey (default: **F1**).  
+
+#### **5. Save Your Settings**  
+Use the **Save Config** button to save your configuration for future use.
+
+---
+
+Follow these steps and enjoy automated fishing in Albion Online with **CodeRaiders Albion Fishing Bot (Lite)**!
+
+---
+
 # [Пользовательское соглашение](https://github.com/CodeRaid3rs/User-Agreement)
 
 ## Документация к **CodeRaiders Albion Fishing Bot (Lite)**  
