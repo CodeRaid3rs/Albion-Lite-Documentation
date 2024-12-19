@@ -28,12 +28,12 @@
 #### **3. Настройте параметры игры**  
 Убедитесь, что настройки игры соответствуют приведённым ниже рекомендациям, чтобы обеспечить стабильную работу бота.
 
-![Настройки 1](CodeRaid3rs/Albion-Lite-Documentation/1.png)  
-![Настройки 2](CodeRaid3rs/Albion-Lite-Documentation/2.png)  
-![Настройки 3](CodeRaid3rs/Albion-Lite-Documentation/3.png)  
-![Настройки 4](CodeRaid3rs/Albion-Lite-Documentation/4.png)  
-![Настройки 5](CodeRaid3rs/Albion-Lite-Documentation/5.png)  
-![Настройки 6](CodeRaid3rs/Albion-Lite-Documentation/6.png)  
+![Настройки 1](1.png)  
+![Настройки 2](2.png)  
+![Настройки 3](3.png)  
+![Настройки 4](4.png)  
+![Настройки 5](5.png)  
+![Настройки 6](6.png)  
 
 ---
 
