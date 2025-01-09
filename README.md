@@ -25,8 +25,13 @@ Antivirus programs may block the bot, causing errors or making it non-functional
 #### **2. Uninstall Anti-Cheat Software (Faceit and Vanguard)**  
 Anti-cheat programs like Faceit or Vanguard may interfere with the bot's operation. Uninstall them and restart your computer.
 
-#### **3. Configure Game Settings**  
+#### **3. Disable VPN**  
+VPN services can cause connectivity issues or interfere with the bot's functionality. Ensure that your VPN is disabled before using the bot.
+
+#### **4. Configure Game Settings**  
 Ensure your game settings match the recommendations below to ensure stable bot performance.
+
+
 
 ![Settings 1](1.png)  
 ![Settings 2](2.png)  
@@ -134,16 +139,18 @@ Follow these steps and enjoy automated fishing in Albion Online with **CodeRaide
 
 ---
 
-### **Подготовка перед запуском**
-
 #### **1. Отключите антивирус**  
 Антивирусные программы могут блокировать работу бота, вызывая ошибки или полную неработоспособность. Убедитесь, что антивирус отключён во время использования бота.
 
 #### **2. Удалите античиты Faceit и Vanguard**  
 Античиты, такие как Faceit и Vanguard, могут мешать корректной работе бота. Удалите их, а затем перезагрузите компьютер.
 
-#### **3. Настройте параметры игры**  
+#### **3. Отключите VPN**  
+VPN-сервисы могут вызывать проблемы с подключением или мешать работе бота. Убедитесь, что VPN отключён перед использованием бота.
+
+#### **4. Настройте параметры игры**  
 Убедитесь, что настройки игры соответствуют приведённым ниже рекомендациям, чтобы обеспечить стабильную работу бота.
+
 
 ![Настройки 1](1.png)  
 ![Настройки 2](2.png)  
